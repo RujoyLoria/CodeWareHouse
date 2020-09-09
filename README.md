@@ -1,2 +1,2 @@
 # CodeWareHouse
-Hello Git,hello my first GitWareHouse!
+Hello Git,I'm LoriaRujoy!
